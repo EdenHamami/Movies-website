@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background-color: #121212;
+  height: 100vh;
+  overflow: scroll;
+  
 }
 
 .App-logo {

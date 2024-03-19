@@ -1,0 +1,41 @@
+.movie-page{
+    display: flex;
+    width: 80vw;
+    height: 80vh;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    overflow: hidden;
+    text-decoration: none;
+    margin-top: 50px;
+}
+.movie-page-content{
+    padding: 30px;
+}
+
+.movie-page-content div{
+margin: 10px;
+
+}
+.movie-page-name{
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.movie-page-summary{
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+
+.movie-page-header{
+    color: white;
+    background-color: black;
+    padding: 0.5rem;
+    width: fit-content;
+    border-radius: 8px;
+    font-size: 15px;
+    display:inline-flexbox;
+}
