@@ -11,8 +11,8 @@ Welcome to the repository for the Movie Showcase Site, a beautifully designed we
 
 ## Preview
 
-![Movie Showcase Site]("./screenshots/HomePage.png")
-![Detailed Movie View]("./screenshots/MoviePage.png")
+![Movie Showcase Site]("screenshots/HomePage.png")
+![Detailed Movie View]("screenshots/MoviePage.png")
 
 
 ## Installation
