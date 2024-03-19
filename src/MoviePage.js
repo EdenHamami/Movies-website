@@ -12,7 +12,7 @@ function MoviePage() {
 
   return (
     <div className='movie-page'>
-      <img src={movie.picture}/>
+      <img src={movie.picture} alt='movie'/>
       <div className='movie-page-content'>
       <div className='movie-page-name'> {movie.name}</div>
       <div className='movie-page-summary'>{movie.summary}</div>

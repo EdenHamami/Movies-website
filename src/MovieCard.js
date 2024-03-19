@@ -6,7 +6,7 @@ function MovieCard({movie}) {
 
     <div className='movie-card'>
         <Link to={`${movie.id}`}>
-    <img src={movie.picture}></img>
+    <img src={movie.picture} alt='logo'></img>
     <div className='movie-card-content'>
         <h1 className='movie-card-name'>{movie.name}</h1>
         <div className='movie-card-category'>{movie.category}</div>

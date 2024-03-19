@@ -1,5 +1,4 @@
 import React from 'react'
-import moviesData from './MoviesData'
 import MovieCard from './MovieCard';
 import "./MoviesList.css"
 function MoviesList(props) {
