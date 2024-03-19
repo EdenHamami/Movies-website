@@ -11,8 +11,9 @@ Welcome to the repository for the Movie Showcase Site, a beautifully designed we
 
 ## Preview
 
-![Movie Showcase Site]("screenshots/HomePage.png")
-![Detailed Movie View]("screenshots/MoviePage.png")
+![Movie Showcase Site](https://github.com/EdenHamami/Movies-website/blob/main/screenshots/HomePage.png?raw=true)
+![Detailed Movie View](https://github.com/EdenHamami/Movies-website/blob/main/screenshots/MoviePage.png?raw=true)
+
 
 
 ## Installation
